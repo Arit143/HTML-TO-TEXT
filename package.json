@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "he": "^1.1.1",
+    "lodash": "^4.17.4"
+  }
+}
